@@ -1,0 +1,135 @@
+package id6h8uxkjv7ulhkkjv7un82;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+@__hiddenLink MemberLink#<oiref:cpp#Member#Ship#gridPosition:oiref>
+@__hiddenLink MemberLink#<oiref:cpp#Member#Ship#stern:oiref>
+@__hiddenLink MemberLink#<oiref:cpp#Member#OpponentGrid#ship:oiref>
+@__hiddenLink MemberLink#<oiref:cpp#Member#OwnGrid#shotAt:oiref>
+@__hiddenLink MemberLink#<oiref:cpp#Member#OpponentGrid#sunkenShips:oiref>
+@__hiddenLink MemberLink#<oiref:cpp#Member#OwnGrid#ownGridShips:oiref>
+*/
+class diagram {
+/**
+@__ref <oiref:cpp#Class#GridPosition:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}
+/**
+@__ref <oiref:cpp#Class#Ship:oiref><oihard>
+@__modelType reference 
+*/
+class reference1 {
+}
+/**
+@__ref <oiref:cpp#Class#OpponentGrid:oiref><oihard>
+@__modelType reference 
+*/
+class reference2 {
+}
+/**
+@__ref <oiref:cpp#Class#Board:oiref><oihard>
+@__modelType reference 
+*/
+class reference3 {
+}
+/**
+@__ref <oiref:cpp#Class#ConsoleView:oiref><oihard>
+@__modelType reference 
+*/
+class reference4 {
+}
+/**
+@__ref <oiref:cpp#Class#OwnGrid:oiref><oihard>
+@__modelType reference 
+*/
+class reference5 {
+}
+/**
+@__ref <oiref:cpp#Class#Shot:oiref><oihard>
+@__modelType reference 
+*/
+class reference6 {
+}
+}/**
+@__tags
+@shapeType ClassDiagram
+@changelog rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVz
+aG9sZHhwP0AAAAAAAAx3CAAAABAAAAAFc3IADmphdmEubGFuZy5Mb25nO4vkkMyPI98CAAFKAAV2
+YWx1ZXhyABBqYXZhLmxhbmcuTnVtYmVyhqyVHQuU4IsCAAB4cAAAAXb+MRwAc3IAE2phdmEudXRp
+bC5BcnJheUxpc3R4gdIdmcdhnQMAAUkABHNpemV4cAAAAAF3BAAAAApzcgAlZGUubW5sLmRvY2Jv
+b2s0VEEuaW1wbC5DaGFuZ2VMb2dFbnRyeQeNjrX5qiSfAgADTAAIaG9zdG5hbWV0ABJMamF2YS9s
+YW5nL1N0cmluZztMAARuYW1lcQB+AAhMAAR1c2VycQB+AAh4cHQAD0RFU0tUT1AtTFI0QUdGRnQA
+CTxkZWZhdWx0PnQABWFkaXRpeHNxAH4AAgAAAXb5CsAAc3EAfgAFAAAAAXcEAAAACnNxAH4AB3QA
+D0RFU0tUT1AtTFI0QUdGRnQACTxkZWZhdWx0PnQABWFkaXRpeHNxAH4AAgAAAXcNpDAAc3EAfgAF
+AAAAAXcEAAAACnNxAH4AB3QAD0RFU0tUT1AtTFI0QUdGRnQACTxkZWZhdWx0PnQABWFkaXRpeHNx
+AH4AAgAAAXcIfdQAc3EAfgAFAAAAAXcEAAAACnNxAH4AB3QAD0RFU0tUT1AtTFI0QUdGRnQACTxk
+ZWZhdWx0PnQABWFkaXRpeHNxAH4AAgAAAXcDV3gAc3EAfgAFAAAAAXcEAAAACnNxAH4AB3QAD0RF
+U0tUT1AtTFI0QUdGRnQACTxkZWZhdWx0PnQABWFkaXRpeHg=
+@elementChangelogs rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVz
+aG9sZHhwP0AAAAAAAAx3CAAAABAAAAAIdAAkPG9pcmVmOmNwcCNDbGFzcyNPcHBvbmVudEdyaWQ6
+b2lyZWY+c3EAfgAAP0AAAAAAAAx3CAAAABAAAAABc3IADmphdmEubGFuZy5Mb25nO4vkkMyPI98C
+AAFKAAV2YWx1ZXhyABBqYXZhLmxhbmcuTnVtYmVyhqyVHQuU4IsCAAB4cAAAAXcNpDAAc3IAE2ph
+dmEudXRpbC5BcnJheUxpc3R4gdIdmcdhnQMAAUkABHNpemV4cAAAAAF3BAAAAApzcgAlZGUubW5s
+LmRvY2Jvb2s0VEEuaW1wbC5DaGFuZ2VMb2dFbnRyeQeNjrX5qiSfAgADTAAIaG9zdG5hbWV0ABJM
+amF2YS9sYW5nL1N0cmluZztMAARuYW1lcQB+AApMAAR1c2VycQB+AAp4cHQAD0RFU0tUT1AtTFI0
+QUdGRnQADE9wcG9uZW50R3JpZHQABWFkaXRpeHh0AB08b2lyZWY6Y3BwI0NsYXNzI0JvYXJkOm9p
+cmVmPnB0ACM8b2lyZWY6Y3BwI0NsYXNzI0NvbnNvbGVWaWV3Om9pcmVmPnNxAH4AAD9AAAAAAAAM
+dwgAAAAQAAAAAnNxAH4ABAAAAXcNpDAAc3EAfgAHAAAAAXcEAAAACnNxAH4ACXEAfgAMdAALQ29u
+c29sZVZpZXdxAH4ADnhzcQB+AAQAAAF3CH3UAHNxAH4ABwAAAAF3BAAAAApzcQB+AAl0AA9ERVNL
+VE9QLUxSNEFHRkZ0AAtDb25zb2xlVmlld3QABWFkaXRpeHh0AB88b2lyZWY6Y3BwI0NsYXNzI093
+bkdyaWQ6b2lyZWY+cHQAHDxvaXJlZjpjcHAjQ2xhc3MjU2hpcDpvaXJlZj5wdAAcPG9pcmVmOmNw
+cCNDbGFzcyNTaG90Om9pcmVmPnB0ACQ8b2lyZWY6Y3BwI0NsYXNzI0dyaWRQb3NpdGlvbjpvaXJl
+Zj5wdAAsPG9pcmVmOmNwcCNDbGFzcyNPcHBvbmVudEdyaWREYXRhYmFzZTpvaXJlZj5zcQB+AAA/
+QAAAAAAADHcIAAAAEAAAAAFzcQB+AAQAAAF3DaQwAHNxAH4ABwAAAAF3BAAAAApzcQB+AAlxAH4A
+DHQAFE9wcG9uZW50R3JpZERhdGFiYXNlcQB+AA54eHg=
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions <oigroup:<oiref:cpp#Class#Ship:oiref>=700,20,230,220,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#Ship#gridPosition:oiref>=700,185,590,185:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#OwnGrid#shotAt:oiref>=0,0,26,16,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#OpponentGridDatabase#lnkOpponentGrid:oiref>=340,450,480,450:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#OpponentGrid#database:oiref>=480,450,340,450:oigroup>
+<oigroup:<oiref:cpp#Class#GridPosition:oiref>=350,20,240,220,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#ConsoleView#board:oiref>=500,752,660,752:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#OwnGrid:oiref><Autodependency><oiref:cpp#Class#Shot:oiref>=855,320,161,186:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#OpponentGridDatabase:oiref><Autodependency><oiref:cpp#Class#GridPosition:oiref>=145,370,436,240:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#OpponentGrid#opponentGridShips:oiref>=755,320,755,240:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#OwnGrid#ships:oiref>=906,320,906,240:oigroup>
+<oigroup:<oiref:cpp#Class#OwnGrid:oiref>=840,320,320,290,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#Ship#stern:oiref>=700,75,590,75:oigroup>
+<oigroup:<oiref:cpp#Class#OpponentGrid:oiref>=480,320,330,300,0:oigroup>
+<oigroup:<oiref:cpp#Class#ConsoleView:oiref>=300,660,200,174,1:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#OwnGrid#shotAt:oiref>=860,310,566,240:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#OpponentGrid:oiref><Autodependency><oiref:cpp#Class#Shot:oiref>=617,320,103,186:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#ConsoleView:oiref><Autodependency><oiref:cpp#Class#GridPosition:oiref>=:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#OpponentGrid#sunkenShips:oiref>=523,320,523,240:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#ConsoleView:oiref><Autodependency><oiref:cpp#Class#Shot:oiref>=400,660,53,186:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#Board#opponentGrid:oiref>=735,670,735,620:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#Board#ownGrid:oiref>=885,670,885,610:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#OwnGrid:oiref><Autodependency><oiref:cpp#Class#GridPosition:oiref>=880,320,560,240:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#OpponentGrid#ship:oiref>=626,320,827,240:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#Ship#bow:oiref>=700,130,590,130:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#ConsoleView#board:oiref>=628,732,28,16,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#Shot#targetPosition:oiref>=219,123,350,123:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#ConsoleView:oiref><Autodependency><oiref:cpp#Class#Ship:oiref>=400,660,770,240:oigroup>
+<oigroup:<oiref:cpp#Class#Board:oiref>=660,670,270,250,0:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#OwnGrid#ownGridShips:oiref>=838,240,28,16,0:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#OpponentGridDatabase#opponentGridShips:oiref>=210,370,785,240:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#OwnGrid#ships:oiref>=876,240,26,16,0:oigroup>
+<oigroup:Autodependency<oiref:cpp#Class#OpponentGrid:oiref><Autodependency><oiref:cpp#Class#GridPosition:oiref>=523,320,523,240:oigroup>
+<oigroup:<oiref:cpp#Member#OpponentGrid#rows:oiref>=220,40,210,16,1:oigroup>
+<oigroup:<oiref:cpp#Class#Shot:oiref>=30,60,189,126,1:oigroup>
+<oigroup:MemberLink#<oiref:cpp#Member#OwnGrid#ownGridShips:oiref>=870,320,870,240:oigroup>
+<oigroup:Composite#supplierCardinality#MemberLink#<oiref:cpp#Member#OpponentGrid#opponentGridShips:oiref>=725,240,26,16,0:oigroup>
+*/
+class __positions {
+}
